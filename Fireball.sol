@@ -6,6 +6,7 @@ import "@openzeppelin/contracts@4.6.0/token/ERC721/extensions/ERC721Enumerable.s
 import "@openzeppelin/contracts@4.6.0/token/ERC721/extensions/ERC721URIStorage.sol";
 import "@openzeppelin/contracts@4.6.0/utils/Counters.sol";
 
+// 0xbf493c69cb3234df87f709591aacdac445517644
 contract Fireball is ERC721, ERC721Enumerable, ERC721URIStorage {
     using Counters for Counters.Counter;
 
